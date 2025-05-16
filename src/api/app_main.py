@@ -265,7 +265,7 @@ def openrouter_analyze_image(base64_image, input_image_path, is_ai_generated):
                         ]
                     }
                 ],
-                "model": "bytedance-research/ui-tars-72b:free"            
+                "model": "moonshotai/kimi-vl-a3b-thinking:free"            
             })           
         )
 
